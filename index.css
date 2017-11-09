@@ -1,0 +1,6 @@
+canvas {
+  background: #111;
+  background: url(map.jpg) no-repeat center;
+  background-size: cover;
+  display: block;
+}
